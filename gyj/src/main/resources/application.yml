@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.20.68.74:3306/library?rewriteBatchedStatements=true
+    username: root
+    password: 123456
